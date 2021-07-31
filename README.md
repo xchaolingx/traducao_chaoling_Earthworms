@@ -18,8 +18,11 @@ English - This is "Translation Chaoling" a repository for several INITIALLY VERY
 In all patch's we will leave the files as accessible as possible and with instructions on how to change them so that anyone can change and translate to another language they want to collaborate.
 
 Of course many will want to improve these amateur translations. So I created a ranking system to separate the best subtitles from amateurs:
+
 LEVEL 1 = Translated only by Google Translate without corrections
+
 LEVEL 2 = Made by Gogle Translate and revised for translator errors
+
 LEVEL 3 = Perfect Legend! Revised and Localized for the language
 
 I just ask that if you use our files to create a professional translation or for another site, give credit for this project. 
@@ -28,8 +31,11 @@ Spanish - Este es "Translation Chaoling", un repositorio para varios parches de 
 En todos los parches dejaremos los archivos lo más accesibles posible y con instrucciones sobre cómo cambiarlos para que cualquiera pueda cambiarlos y traducirlos a otro idioma en el que quieran colaborar.
 
 Por supuesto, muchos querrán mejorar estas traducciones de aficionados. Así que creé un sistema de clasificación para separar los mejores subtítulos de los aficionados:
+
 LEVEL 1 = Traducido solo por Google Translate sin correcciones
+
 LEVEL 2 = Hecho por Gogle Translate y revisado para errores del traductor
+
 LEVEL 3 = ¡Leyenda perfecta! Revisado y localizado para el idioma
 
 Solo le pido que si usa nuestros archivos para crear una traducción profesional o para otro sitio, dé crédito por este proyecto.
@@ -38,8 +44,11 @@ Frech - Ceci est "Translation Chaoling" un référentiel pour plusieurs patchs d
 Dans tous les correctifs, nous laisserons les fichiers aussi accessibles que possible et avec des instructions sur la façon de les modifier afin que tout le monde puisse modifier et traduire dans une autre langue avec laquelle il souhaite collaborer.
 
 Bien sûr beaucoup voudront améliorer ces traductions amateurs. J'ai donc créé un système de classement pour séparer les meilleurs sous-titres des amateurs :
+
 LEVEL 1 = Traduit uniquement par Google Translate sans corrections
+
 LEVEL 2 = Réalisé par Gogle Translate et révisé pour les erreurs de traduction
+
 LEVEL 3 = Légende parfaite ! Révisé et localisé pour la langue
 
 Je demande juste que si vous utilisez nos fichiers pour créer une traduction professionnelle ou pour un autre site, donnez du crédit pour ce projet. 
@@ -48,8 +57,11 @@ Russian- Это "Translation Chaoling", репозиторий для неско
 Во всех патчах мы будем оставлять файлы максимально доступными и с инструкциями по их изменению, чтобы каждый мог изменить и перевести на другой язык, на котором он хочет сотрудничать.
 
 Конечно, многие захотят улучшить эти любительские переводы. Поэтому я создал систему ранжирования, чтобы отделить лучшие субтитры от любительских:
+
 LEVEL 1 = переведено только Google Translate без исправлений.
+
 LEVEL 2 = Сделано Gogle Translate и исправлено на предмет ошибок переводчика.
+
 LEVEL 3 = Идеальная легенда! Пересмотрено и локализовано для языка
 
 Я просто прошу, если вы используете наши файлы для создания профессионального перевода или для другого сайта, отдайте должное этому проекту.
@@ -58,8 +70,11 @@ Japonese - これは、Google翻訳を使用したいくつかの最初は非常
 すべてのパッチで、ファイルに可能な限りアクセスできるようにし、ファイルを変更する方法を説明して、誰でも変更して、共同作業したい別の言語に翻訳できるようにします。
 
 もちろん、多くの人がこれらのアマチュア翻訳を改善したいと思うでしょう。そこで私は、最高の字幕をアマチュアから分離するためのランキングシステムを作成しました。
+
 LEVEL 1 =修正なしでGoogle翻訳によってのみ翻訳された
+
 LEVEL 2 = Gogle Translateによって作成され、トランスレータエラー用に改訂されました
+
 LEVEL 3 =完璧な伝説！言語に合わせて改訂およびローカライズ
 
 私たちのファイルを使用してプロの翻訳を作成したり、別のサイトに使用したりする場合は、このプロジェクトの功績を認めてください。
@@ -68,8 +83,11 @@ Chinese -这是“翻译超灵”几个使用谷歌翻译器的INITIALLY VERY, R
 在所有补丁中，我们将尽可能保留文件的可访问性，并提供有关如何更改它们的说明，以便任何人都可以更改并翻译成他们想要合作的另一种语言。
 
 当然，很多人都希望改进这些业余翻译。所以我创建了一个排名系统，将最好的字幕与业余翻译分开：
+
 LEVEL 1 = 仅由 Google 翻译翻译，未更正
+
 LEVEL 2 = 由 Gogle Translate 制作并针对翻译错误进行了修订
+
 LEVEL 3 = 完美传奇！针对语言进行了修订和本地化
 
 我只是问，如果您使用我们的文件来创建专业翻译或用于其他站点，请为该项目点赞。
@@ -78,6 +96,7 @@ Arabic - هذا هو "Translation Chaoling" مستودعًا للعديد من �
 في جميع ملفات التصحيح ، سنترك الملفات قابلة للوصول قدر الإمكان وبإرشادات حول كيفية تغييرها حتى يتمكن أي شخص من التغيير والترجمة إلى لغة أخرى يريد التعاون معها.
 
 بالطبع سيرغب الكثير في تحسين ترجمات الهواة هذه. لذلك قمت بإنشاء نظام تصنيف لفصل أفضل الترجمات عن الهواة:
+
 المستوى 1 = مترجم فقط عن طريق الترجمة من Google بدون تصحيحات
 المستوى 2 = تم بواسطة الترجمة من Google وتمت مراجعته بحثًا عن أخطاء المترجم
 المستوى 3 = أسطورة مثالية! منقحة ومترجمة للغة
