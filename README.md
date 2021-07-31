@@ -11,7 +11,7 @@ LEVEL 3 = Legenda Perfeita! Revisada e Localizada para o idioma
 
 Só peço que se usar arquivos nossos para cria uma tradução profissional ou para outro site dê os creditos para esse projeto.
 
-English - This is "Translation Chaoling" a repository for several INITIALLY VERY, REALLY AMATEUR translation patches using Google Translator, I believe that people who know nothing about programming or even languages, can give games that will never be translated to a chance. certain languages ​​have at least minimal understanding.
+English - This is "Translation Chaoling" a repository for several INITIALLY VERY, REALLY AMATEUR translation patches using Google Translator, I believe that people who know nothing about programming or even languages, can give games that will never be translated to a chance. certain languages have at least minimal understanding.
 In all patch's we will leave the files as accessible as possible and with instructions on how to change them so that anyone can change and translate to another language they want to collaborate.
 
 Of course many will want to improve these amateur translations. So I created a ranking system to separate the best subtitles from amateurs:
