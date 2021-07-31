@@ -6,8 +6,11 @@ Em todos patch's deixaremos os arquivos de forma mais acessível possível e com
 
 Claro muitos vão querer melhorar essas traduções amadoras.Então criei uma sistema de classificação para seprarar as legendas melhores das amadoras:
 LEVEL 1 = Traduzida apenas pelo Gogle Translate sem correções
+
 LEVEL 2 = Feita pelo Gogle Translate e revisada erros do tradutor
+
 LEVEL 3 = Legenda Perfeita! Revisada e Localizada para o idioma
+
 
 Só peço que se usar arquivos nossos para cria uma tradução profissional ou para outro site dê os creditos para esse projeto.
 
